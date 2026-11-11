@@ -1,4 +1,4 @@
-# Hi 👋
+# Hi there!👋
 
 I'm an Information Technology student at Arcada University of Applied Sciences, building a strong foundation in programming, data, and AI.
 
